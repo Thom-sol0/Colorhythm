@@ -7,7 +7,6 @@ from colorhythm.core.camera import Camera
 from colorhythm.core.processing import apply_gaussian_blur
 from colorhythm.utils import io
 
-
 class VideoProcessor:
     def __init__(self, camera: Camera, window_name: str = 'Video Feed'):
         self.camera = camera

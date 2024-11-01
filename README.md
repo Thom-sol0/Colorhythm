@@ -6,9 +6,9 @@ Objective: Generate scores/melody from an image of colorful paper sliders.
 
 1. Clone the repo:
    ```bash
-   git clone https://gitlab.binets.fr/thomas.pouponneau/colorhythm.git
-   # or git clone git@gitlab.binets.fr:thomas.pouponneau/colorhythm.git for development
-   cd path/to/colorythm
+   git clone https://github.com/Thom-sol0/Colorhythm.git
+   # or git clone git@github.com:Thom-sol0/Colorhythm.git for development
+   cd path/to/Colorythm
    ```
 
 2. Install the virtual environment and its dependencies:
